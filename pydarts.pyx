@@ -1,4 +1,5 @@
 from libcpp.vector cimport vector
+from six.moves import range
 
 
 ctypedef char NODE_TYPE
